@@ -121,5 +121,5 @@ Les variables les plus prédictives identifiées par la Feature Importance du Ra
 
 **Yanis** — Étudiant BTS SIO SLAM, en recherche d'alternance Data/IA (Licence/Bachelor)
 
-[![LinkedIn]]([https://www.linkedin.com/in/yanis-le-port-3b0a63326/])
-[![Portfolio]([https://yanis252.github.io/Portfolio/])
+[LinkedIn]([https://www.linkedin.com/in/yanis-le-port-3b0a63326/])
+[Portfolio]([https://yanis252.github.io/Portfolio/])
