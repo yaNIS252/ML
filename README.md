@@ -106,14 +106,22 @@ Les variables les plus prédictives identifiées par la Feature Importance du Ra
 
 ---
 
-## 🔧 Améliorations possibles
+##Index
 
-- [ ] Gérer le déséquilibre de classes avec SMOTE ou `class_weight='balanced'`
-- [ ] Optimisation des hyperparamètres avec `GridSearchCV`
-- [ ] Remplacer Random Forest par XGBoost ou LightGBM
-- [ ] Ajouter l'interprétabilité avec SHAP
-- [ ] Encapsuler dans un `Pipeline` scikit-learn
-- [ ] Déployer comme API REST avec FastAPI
+
+<img width="1194" height="526" alt="Capture d&#39;écran 2026-04-30 214603" src="https://github.com/user-attachments/assets/0d181b78-b744-42c0-a245-87d81ddf7666" />
+
+
+<img width="991" height="724" alt="Capture d&#39;écran 2026-04-30 214643" src="https://github.com/user-attachments/assets/ae77875b-e970-4d73-b869-1e897daf1eb9" />
+
+
+<img width="1173" height="494" alt="Capture d&#39;écran 2026-04-30 214711" src="https://github.com/user-attachments/assets/4b2c8240-5c53-4f9f-81c4-74678c04470a" />
+
+
+<img width="794" height="598" alt="Capture d&#39;écran 2026-04-30 214734" src="https://github.com/user-attachments/assets/654e9284-6309-4cb5-9ec0-7901018eac70" />
+
+
+<img width="986" height="595" alt="Capture d&#39;écran 2026-04-30 214758" src="https://github.com/user-attachments/assets/9aa6afff-0476-4f07-9b7e-f88074ee8936" />
 
 ---
 
