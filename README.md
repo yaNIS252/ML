@@ -106,7 +106,7 @@ Les variables les plus prédictives identifiées par la Feature Importance du Ra
 
 ---
 
-##Index
+## Index
 
 
 <img width="1194" height="526" alt="Capture d&#39;écran 2026-04-30 214603" src="https://github.com/user-attachments/assets/0d181b78-b744-42c0-a245-87d81ddf7666" />
